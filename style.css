@@ -25,19 +25,19 @@ section{
     padding: 40px 0 0 130px ;
 }
 .intro{
-    background-image: url(images/header-bg.png);
+    background-image: url(Images/header-bg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;  
 }
 .bio{
-    background-image: url(images/biography-bg.png);
+    background-image: url(Images/biography-bg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .latest-work{
-    background-image: url(images/latest-work-bg.png);
+    background-image: url(Images/latest-work-bg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;    
@@ -48,7 +48,7 @@ section{
     padding-bottom: 50px;
 }
 .client{
-    background-image: url(images/footer-bg.png);
+    background-image: url(Images/footer-bg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
